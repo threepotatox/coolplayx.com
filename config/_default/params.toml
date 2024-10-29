@@ -376,7 +376,7 @@ bundle = false
     [page.comment.giscus]
       enable = true
       # owner/repo
-      dataRepo = "threepotatox/coolplayx"
+      dataRepo = "threepotatox/coolplayx.com"
       dataRepoId = "R_kgDONGy4zA"
       dataCategory = "Announcements"
       dataCategoryId = "DIC_kwDONGy4zM4Cjv7U"
