@@ -387,7 +387,7 @@ bundle = false
       dataInputPosition = "bottom"
       lightTheme = "light"
       darkTheme = "dark"
-      dataLang = "zh-cn"
+      dataLang = "zh-CN"
       dataLoading = "lazy"
 
   # Third-party library config
