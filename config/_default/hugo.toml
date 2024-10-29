@@ -1,0 +1,35 @@
+baseURL = "https://coolplayx.com"
+# [en, zh-cn, fr, pl, ...] determines default content language
+# [en, zh-cn, fr, pl, ...] 设置默认的语言
+defaultContentLanguage = "zh-cn"
+# website title
+# 网站标题
+title = "CoolplayX"
+
+# whether to use robots.txt
+# 是否使用 robots.txt
+# 默认情况下，Hugo 使用内部模板生成 robots.txt：User-agent: *。遵守 Robots Exclusion Protocol 的搜索引擎将解释这一行为允许在网站上爬取所有内容。
+enableRobotsTXT = true
+# whether to use git commit log
+# 是否使用 git 信息
+# 当将 enableGitInto 设置为 true 或使用命令行标志启用此功能时，每个内容页面的最后修改日期将是该文件的最后提交的作者日期。
+enableGitInfo = true
+# whether to use emoji code
+# 是否使用 emoji 代码
+enableEmoji = true
+
+# ignore some build errors
+# 忽略一些构建错误
+# ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
+
+# theme
+# 主题
+theme = "DoIt"
+# themes directory
+# 主题目录
+# themesDir = "../.."
+
+# Or, when using theme as hugo module
+# [module]
+# [[module.imports]]
+# path = "github.com/HEIGE-PCloud/DoIt"
